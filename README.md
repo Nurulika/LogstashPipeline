@@ -1,0 +1,2 @@
+# LogstashPipeline
+Professional LogstashPipeline system with LogstashPipeline-optimized intelligent-automation and enterprise logstashpipeline-optimization capabilities
